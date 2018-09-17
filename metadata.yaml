@@ -1,5 +1,8 @@
 _repo: An-Essay-to-Shew-the-Cause-of-Electricity-and-Why-Some-Things-are-Non-Electricable-In-Which-I__52439
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52439-h/images/cover.jpg
 creator:
   author:
     agent_name: Freke, John
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/John_Freke_(surgeon)
 description: The appendix is a reply to the preface of Benjamin Martin's "An essay
   on electricity ... 1746".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52439#An-Essay-to-Shew-the-Cause-of-Electricity-and-Why-Some-Things-are-Non-Electricable-In-Which-I_
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
